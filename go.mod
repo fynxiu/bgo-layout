@@ -1,3 +1,3 @@
-module github.com/fyn.xiu/bgo-layout
+module github.com/fynxiu/bgo-layout
 
 go 1.17

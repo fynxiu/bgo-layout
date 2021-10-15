@@ -1,0 +1,12 @@
+## Golang
+*/bin
+
+## IDE
+*/.vscode
+*/.idea/*
+!*/.idea/codeStyles
+!*/.idea/watcherTasks.xml
+
+## OS
+.DS_Store
+

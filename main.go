@@ -1,7 +1,12 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+
+	"github.com/fynxiu/bgo-layout/greet"
+)
 
 func main() {
-	fmt.Println("bgo general project layout")
+	fmt.Println("bgo spec1 project layout")
+	greet.Hello("spec1")
 }

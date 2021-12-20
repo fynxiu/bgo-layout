@@ -1,3 +1,4 @@
 module github.com/fynxiu/bgo-layout
 
-go 1.17
+// TODO: customize this version
+go 1.18
